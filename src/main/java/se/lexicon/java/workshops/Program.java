@@ -28,7 +28,8 @@ public class Program
         }
         */
 
-        countDown();
+        //countDown();
+
         /*
         double totalWas = totalAmountOfTenNumber();
 
